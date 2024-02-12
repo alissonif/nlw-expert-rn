@@ -21,7 +21,6 @@ export function Header({ title, cardQuantityItems = 0 }: HeaderProps) {
           <Feather name="shopping-bag" color={colors.white} size={24} />
         </TouchableOpacity>
       }
-
     </View>
   )
 }
