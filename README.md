@@ -11,7 +11,6 @@ Este é um aplicativo de delivery simples em React Native que permite aos usuár
 
 ## 📸 Capturas de Tela
 
-_Inclua aqui algumas capturas de tela do seu aplicativo para dar uma visão geral visual._
 ![Screenshot from 2024-02-13 03-33-55](https://github.com/alissonif/nlw-expert-rn/assets/113787415/3cfc5b29-47fb-4cbb-ad39-6d4ff6d2f2fb)
 ![Screenshot from 2024-02-13 03-34-15](https://github.com/alissonif/nlw-expert-rn/assets/113787415/dfff1a1d-403c-4d82-95f8-2ccca4dcdc7c)
 ![Screenshot from 2024-02-13 03-34-29](https://github.com/alissonif/nlw-expert-rn/assets/113787415/14bddc50-4537-4df6-b6c6-5058d9480138)
