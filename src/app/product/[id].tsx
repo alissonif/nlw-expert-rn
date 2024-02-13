@@ -1,4 +1,4 @@
-import { useLocalSearchParams, useNavigation } from "expo-router";
+import { Redirect, useLocalSearchParams, useNavigation } from "expo-router";
 import { Image, Text, View } from "react-native";
 import { PRODUCTS } from "../../../utils/data/products";
 import { formatCurrency } from "../../../utils/functions/format-currency";
@@ -11,12 +11,18 @@ export default function Product() {
   const cartStore = useCardStore();
   const navigate = useNavigation();
   const { id } = useLocalSearchParams();
+  const product = PRODUCTS.find((product) => product.id === id);
+
   // console.log(cartStore.products);
   function handleAddToCart() {
-    cartStore.add(product);
-    navigate.goBack();
+    if (product) {
+      cartStore.add(product);
+      navigate.goBack();
+    }
   }
-  const product = PRODUCTS.filter((product) => product.id === id)[0];
+  if (!product) {
+    return <Redirect href={"/"} />;
+  }
   return (
     <View className="flex-1">
       <Image
@@ -25,6 +31,7 @@ export default function Product() {
         resizeMode="cover"
       />
       <View className="p-5 mt-8 flex-1">
+        <Text className="text-white text-xl font-heading">{product.title}</Text>
         <Text className="text-lime-400 text-2xl font-heading">
           {formatCurrency(product.price)}
         </Text>
@@ -36,7 +43,6 @@ export default function Product() {
             key={ingredient}
             className="text-slate-400 font-body text-base leading-6"
           >
-            {" "}
             {"\u2022"} {ingredient}
           </Text>
         ))}
