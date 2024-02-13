@@ -22,6 +22,10 @@ _Inclua aqui algumas capturas de tela do seu aplicativo para dar uma visão gera
 
 ## Vídeo Demo
 
+[cinnamon-2024-02-13T034930-0300.webm](https://github.com/alissonif/nlw-expert-rn/assets/113787415/b29d59ee-8d3d-445a-88bf-b4b644ba892a)
+
+[cinnamon-2024-02-13T033037-0300.webm](https://github.com/alissonif/nlw-expert-rn/assets/113787415/75ae9eb4-797a-47b6-9583-48ffcb625fb5)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
