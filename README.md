@@ -13,9 +13,6 @@ Este é um aplicativo de delivery simples em React Native que permite aos usuár
 
 _Inclua aqui algumas capturas de tela do seu aplicativo para dar uma visão geral visual._
 ![Screenshot from 2024-02-13 03-33-55](https://github.com/alissonif/nlw-expert-rn/assets/113787415/3cfc5b29-47fb-4cbb-ad39-6d4ff6d2f2fb)
-
-## 📸 Capturas de Tela
-
 ![Screenshot from 2024-02-13 03-34-15](https://github.com/alissonif/nlw-expert-rn/assets/113787415/dfff1a1d-403c-4d82-95f8-2ccca4dcdc7c)
 ![Screenshot from 2024-02-13 03-34-29](https://github.com/alissonif/nlw-expert-rn/assets/113787415/14bddc50-4537-4df6-b6c6-5058d9480138)
 ![Screenshot from 2024-02-13 03-34-52](https://github.com/alissonif/nlw-expert-rn/assets/113787415/0dbcdfaf-2dd7-4bd3-ae58-c73916fecd5b)
@@ -23,8 +20,6 @@ _Inclua aqui algumas capturas de tela do seu aplicativo para dar uma visão gera
 ## Vídeo Demo
 
 [cinnamon-2024-02-13T034930-0300.webm](https://github.com/alissonif/nlw-expert-rn/assets/113787415/b29d59ee-8d3d-445a-88bf-b4b644ba892a)
-
-[cinnamon-2024-02-13T033037-0300.webm](https://github.com/alissonif/nlw-expert-rn/assets/113787415/75ae9eb4-797a-47b6-9583-48ffcb625fb5)
 
 
 ## 🛠️ Tecnologias Utilizadas
