@@ -1,6 +1,6 @@
 # 🚀 Delivery App
 
-Este é um aplicativo de delivery simples em React Native que permite aos usuários visualizar um cardápio de lanches, adicionar itens ao carrinho e fazer pedidos através do WhatsApp.
+Este é um aplicativo de delivery simples em React Native que permite aos usuários visualizar um cardápio de lanches, adicionar itens ao carrinho e fazer entregas através do WhatsApp.
 
 ## Funcionalidades
 
