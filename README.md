@@ -1,13 +1,13 @@
 # 🚀 Delivery App
 
-O Sistema Web de Notas Voz e Texto é uma aplicação intuitiva e eficiente que permite aos usuários criar, salvar, e excluir notas de maneira fácil e rápida, tanto por meio de entrada de voz quanto de texto. Projetado para proporcionar uma experiência simplificada, o sistema oferece diversas funcionalidades para otimizar a organização e gestão de informações.
+Este é um aplicativo de delivery simples em React Native que permite aos usuários visualizar um cardápio de lanches, adicionar itens ao carrinho e fazer entregas através do WhatsApp.
 
 ## Funcionalidades
 
-- **Criação de Notas por Voz e Texto:** Os usuários podem criar novas notas instantaneamente, utilizando tanto a entrada de voz quanto a entrada de texto.A funcionalidade de entrada por voz é alimentada por tecnologias de reconhecimento de voz, permitindo que os usuários simplesmente falem suas notas.
-- **Armazenamento e Organização:** Todas as notas são armazenadas com segurança, permitindo que os usuários acessem e gerenciem suas informações a qualquer momento.As notas são organizadas por data de criação, facilitando a busca e a revisão de informações anteriores.
-- **Exclusão de Notas:** Funcionalidade de exclusão simples e direta, permitindo que os usuários removam notas que não são mais necessárias.
-- **Interface Amigável e Responsiva::** A interface do usuário foi projetada para ser amigável e responsiva, garantindo uma experiência de usuário agradável em dispositivos variados, como desktops, tablets e smartphones.
+- **Cardápio:** Veja uma lista de categorias (🍔 hamburgers, 🍰 sobremesas, 🥤 bebidas) e detalhes de produtos.
+- **Detalhes do Produto:** Clique em um produto para ver informações detalhadas, incluindo nome, descrição, ingredientes, preço e imagem.
+- **Carrinho de Compras:** Adicione produtos ao carrinho, veja a quantidade de cada item e o valor total.
+- **Pedido:** Insira detalhes de entrega e envie o pedido diretamente para o WhatsApp.
 ## 📸 Capturas de Tela
 
 ![Screenshot from 2024-02-13 03-33-55](https://github.com/alissonif/nlw-expert-rn/assets/113787415/3cfc5b29-47fb-4cbb-ad39-6d4ff6d2f2fb)
